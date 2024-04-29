@@ -1,0 +1,29 @@
+.admincontent{
+  width: calc(100vw - 256px);
+  /* background-color: red; */
+  min-height: calc(100vh - 50px);
+  margin-left: 256px;
+  margin-top: 50px;
+  padding: 20px;
+}
+
+.AdminCards .AdminCard i{
+  font-size: 60px;
+}
+
+.adminSidebar ul li a i{
+  font-size: 22px;
+} 
+
+
+@media (max-width: 626px){
+  .admincontent{
+    width: 100vw;
+    margin-left: 0px;
+    /* background-color: red; */
+  }
+
+  .AdminCards{
+    flex-direction: column;
+  }
+}

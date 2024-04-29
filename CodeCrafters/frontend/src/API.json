@@ -1,0 +1,356 @@
+[  
+  {
+    "id": 1,
+    "title": "Gaming Website For Gamers.",
+    "description": "This gaming website is created by codeCrafters for best gamers who enjoy 3d games online in our pc and this website is created in html css and js",
+    "price": 20,
+    "isPaid": true, 
+    "discount": 4,
+    "uploadedIn": "2/3/4", 
+    "image": "https://sp-ao.shortpixel.ai/client/to_auto,q_glossy,ret_img/https://www.toocss.com/wp-content/uploads/2023/05/lugx-toocss.jpg",
+    "content": {
+      "page": 10,
+      "theme": "blue and white",
+      "responsive": true,
+      "components": 40
+    }
+  },
+  {
+    "id": 2,
+    "title": "Online Learning Hub",
+    "description": "Explore a world of knowledge with our website designed for online learning. Our platform offers a wide range of courses in various fields.",
+    "price": 25,
+    "isPaid": true,
+    "discount": 5,
+    "uploadedIn": "3/4/4",
+    "image": "https://sp-ao.shortpixel.ai/client/to_auto,q_glossy,ret_img/https://www.toocss.com/wp-content/uploads/2023/05/lugx-toocss.jpg",
+    "content": {
+      "page": 12,
+      "theme": "red and black",
+      "responsive": true,
+      "components": 45
+    }
+  },
+  {
+    "id": 3,
+    "title": "E-commerce Emporium",
+    "description": "Discover the ultimate online shopping experience with our e-commerce website. Browse through a vast collection of products from various categories.",
+    "price": 18,
+    "isPaid": true,
+    "discount": 3,
+    "uploadedIn": "4/5/4",
+    "image": "https://sp-ao.shortpixel.ai/client/to_auto,q_glossy,ret_img/https://www.toocss.com/wp-content/uploads/2023/05/lugx-toocss.jpg",
+    "content": {
+      "page": 11,
+      "theme": "blue and white",
+      "responsive": true,
+      "components": 42
+    }
+  },
+  {
+    "id": 4,
+    "title": "Health and Wellness Hub",
+    "description": "Take charge of your well-being with our website dedicated to health and wellness. Explore resources, articles, and expert advice on living a healthier life.",
+    "price": 22,
+    "isPaid": true,
+    "discount": 2,
+    "uploadedIn": "5/6/4",
+    "image": "https://sp-ao.shortpixel.ai/client/to_auto,q_glossy,ret_img/https://www.toocss.com/wp-content/uploads/2023/05/lugx-toocss.jpg",
+    "content": {
+      "page": 13,
+      "theme": "green and black",
+      "responsive": true,
+      "components": 44
+    }
+  },
+  {
+    "id": 5,
+    "title": "Travel Explorer's Portal",
+    "description": "Embark on a journey of discovery with our travel website. Find inspiration, tips, and guides for your next adventure.",
+    "price": 20,
+    "isPaid": true,
+    "discount": 4,
+    "uploadedIn": "6/7/4",
+    "image": "https://sp-ao.shortpixel.ai/client/to_auto,q_glossy,ret_img/https://www.toocss.com/wp-content/uploads/2023/05/lugx-toocss.jpg",
+    "content": {
+      "page": 10,
+      "theme": "blue and white",
+      "responsive": true,
+      "components": 40
+    }
+  },
+  {
+    "id": 6,
+    "title": "Art and Creativity Hub",
+    "description": "Fuel your creative passions with our website dedicated to art and creativity. Discover masterpieces, tutorials, and tools to unleash your artistic side.",
+    "price": 23,
+    "isPaid": true,
+    "discount": 3,
+    "uploadedIn": "7/8/4",
+    "image": "https://sp-ao.shortpixel.ai/client/to_auto,q_glossy,ret_img/https://www.toocss.com/wp-content/uploads/2023/05/lugx-toocss.jpg",
+    "content": {
+      "page": 11,
+      "theme": "blue and white",
+      "responsive": true,
+      "components": 41
+    }
+  },
+  {
+    "id": 7,
+    "title": "Financial Freedom Center",
+    "description": "Empower yourself with financial knowledge through our website. Learn about budgeting, investing, and achieving financial independence.",
+    "price": 21,
+    "isPaid": true,
+    "discount": 3,
+    "uploadedIn": "8/9/4",
+    "image": "https://sp-ao.shortpixel.ai/client/to_auto,q_glossy,ret_img/https://www.toocss.com/wp-content/uploads/2023/05/lugx-toocss.jpg",
+    "content": {
+      "page": 12,
+      "theme": "blue and white",
+      "responsive": true,
+      "components": 43
+    }
+  },
+  {
+    "id": 8,
+    "title": "Culinary Corner",
+    "description": "Explore the world of gastronomy with our culinary website. Delve into recipes, cooking techniques, and culinary delights from around the globe.",
+    "price": 24,
+    "isPaid": true,
+    "discount": 4,
+    "uploadedIn": "9/10/4",
+    "image": "https://example.com/image8.jpg",
+    "content": {
+      "page": 13,
+      "theme": "blue and white",
+      "responsive": true,
+      "components": 42
+    }
+  },
+  {
+    "id": 9,
+    "title": "Music Melodies Website",
+    "description": "Immerse yourself in the world of music with our website. Discover new tunes, artists, and genres to enhance your auditory experience.",
+    "price": 19,
+    "isPaid": true,
+    "discount": 2,
+    "uploadedIn": "10/11/4",
+    "image": "https://example.com/image9.jpg",
+    "content": {
+      "page": 10,
+      "theme": "blue and white",
+      "responsive": true,
+      "components": 41
+    }
+  },
+  {
+    "id": 10,
+    "title": "Fashion Fiesta Hub",
+    "description": "Stay ahead of the fashion curve with our website dedicated to style and trends. Explore fashion tips, runway looks, and wardrobe essentials.",
+    "price": 20,
+    "isPaid": true,
+    "discount": 5,
+    "uploadedIn": "11/12/4",
+    "image": "https://example.com/image10.jpg",
+    "content": {
+      "page": 12,
+      "theme": "blue and white",
+      "responsive": true,
+      "components": 40
+    }
+  },
+  {
+    "id": 11,
+    "title": "Tech Enthusiast's Corner",
+    "description": "Stay updated with the latest in technology through our website. Explore gadget reviews, tech news, and insightful articles.",
+    "price": 22,
+    "isPaid": true,
+    "discount": 4,
+    "uploadedIn": "12/1/5",
+    "image": "https://example.com/image11.jpg",
+    "content": {
+      "page": 14,
+      "theme": "blue and white",
+      "responsive": true,
+      "components": 43
+    }
+  },
+  {
+    "id": 12,
+    "title": "Community Connection Hub",
+    "description": "Join our community connection hub, where you can interact with like-minded individuals, join discussions, and share your interests.",
+    "price": 0,
+    "isPaid": false,
+    "discount": 0,
+    "uploadedIn": "1/2/5",
+    "image": "https://example.com/image12.jpg",
+    "content": {
+      "page": 15,
+      "theme": "blue and white",
+      "responsive": true,
+      "components": 50
+    }
+  },
+  {
+    "id": 13,
+    "title": "Nature Exploration Site",
+    "description": "Discover the wonders of nature with our exploration website. Dive into articles, photos, and videos showcasing the beauty of the natural world.",
+    "price": 0,
+    "isPaid": false,
+    "discount": 0,
+    "uploadedIn": "2/3/5",
+    "image": "https://example.com/image13.jpg",
+    "content": {
+      "page": 12,
+      "theme": "green and brown",
+      "responsive": true,
+      "components": 45
+    }
+  },
+  {
+    "id": 14,
+    "title": "Volunteer Opportunities Hub",
+    "description": "Make a difference in your community with our volunteer opportunities hub. Explore volunteer roles, events, and ways to give back.",
+    "price": 0,
+    "isPaid": false,
+    "discount": 0,
+    "uploadedIn": "3/4/5",
+    "image": "https://example.com/image14.jpg",
+    "content": {
+      "page": 10,
+      "theme": "blue and white",
+      "responsive": true,
+      "components": 40
+    }
+  },
+  {
+    "id": 15,
+    "title": "Pet Care Portal",
+    "description": "Cater to your furry friends with our pet care portal. Find tips, advice, and resources for keeping your pets happy and healthy.",
+    "price": 0,
+    "isPaid": false,
+    "discount": 0,
+    "uploadedIn": "4/5/5",
+    "image": "https://example.com/image15.jpg",
+    "content": {
+      "page": 11,
+      "theme": "blue and white",
+      "responsive": true,
+      "components": 42
+    }
+  },
+  {
+    "id": 16,
+    "title": "Parenting Guide Website",
+    "description": "Navigate the journey of parenthood with our parenting guide website. Access articles, tips, and support for raising happy and healthy children.",
+    "price": 0,
+    "isPaid": false,
+    "discount": 0,
+    "uploadedIn": "5/6/5",
+    "image": "https://example.com/image16.jpg",
+    "content": {
+      "page": 13,
+      "theme": "blue and white",
+      "responsive": true,
+      "components": 44
+    }
+  },
+  {
+    "id": 17,
+    "title": "Environmental Awareness Site",
+    "description": "Join the movement for environmental awareness with our website. Learn about sustainability, conservation efforts, and eco-friendly practices.",
+    "price": 0,
+    "isPaid": false,
+    "discount": 0,
+    "uploadedIn": "6/7/5",
+    "image": "https://example.com/image17.jpg",
+    "content": {
+      "page": 14,
+      "theme": "green and blue",
+      "responsive": true,
+      "components": 46
+    }
+  },
+  {
+    "id": 18,
+    "title": "Self-Care Sanctuary",
+    "description": "Nurture your mind, body, and soul with our self-care sanctuary. Explore mindfulness practices, relaxation techniques, and holistic wellness.",
+    "price": 0,
+    "isPaid": false,
+    "discount": 0,
+    "uploadedIn": "7/8/5",
+    "image": "https://example.com/image18.jpg",
+    "content": {
+      "page": 15,
+      "theme": "blue and white",
+      "responsive": true,
+      "components": 48
+    }
+  },
+  {
+    "id": 19,
+    "title": "Startup Support Center",
+    "description": "Empower your startup journey with our support center. Access resources, tools, and mentorship to launch and grow your business.",
+    "price": 0,
+    "isPaid": false,
+    "discount": 0,
+    "uploadedIn": "8/9/5",
+    "image": "https://example.com/image19.jpg",
+    "content": {
+      "page": 12,
+      "theme": "blue and white",
+      "responsive": true,
+      "components": 41
+    }
+  },
+  {
+    "id": 20,
+    "title": "Language Learning Platform",
+    "description": "Embark on a journey of language discovery with our learning platform. Explore courses, exercises, and immersive experiences to master new languages.",
+    "price": 0,
+    "isPaid": false,
+    "discount": 0,
+    "uploadedIn": "9/10/5",
+    "image": "https://example.com/image20.jpg",
+    "content": {
+      "page": 13,
+      "theme": "blue and white",
+      "responsive": true,
+      "components": 43
+    }
+  },
+  {
+    "id": 21,
+    "title": "Career Development Hub",
+    "description": "Advance your career with our development hub. Discover career paths, job opportunities, and professional growth resources.",
+    "price": 0,
+    "isPaid": false,
+    "discount": 0,
+    "uploadedIn": "10/11/5",
+    "image": "https://example.com/image21.jpg",
+    "content": {
+      "page": 14,
+      "theme": "blue and white",
+      "responsive": true,
+      "components": 44
+    }
+  },
+  {
+    "id": 22,
+    "title": "Fitness Fanatics Center",
+    "description": "Achieve your fitness goals with our dedicated center. Access workout routines, nutrition plans, and motivational content.",
+    "price": 0,
+    "isPaid": false,
+    "discount": 0,
+    "uploadedIn": "11/12/5",
+    "image": "https://example.com/image22.jpg",
+    "content": {
+      "page": 15,
+      "theme": "blue and white",
+      "responsive": true,
+      "components": 45
+    }
+  }
+]
+
+

@@ -1,0 +1,45 @@
+@media (max-width:600px) {
+
+
+
+  /* projects */
+
+  .projects {
+    /* background-color: red; */
+    place-items: center;
+    padding: 0px;
+    width: 93%;
+  }
+
+  .projects .grid.grid-cols-2 {
+    margin-left: 24px;
+  }
+
+  .projects .projectsHead {
+    text-align: center;
+  }
+
+  /* contact */
+  .contact {
+    flex-direction: column;
+  }
+
+  .contact_from {
+    width: 95vw;
+    margin-left: 0px;
+    margin-top: 30px;
+  }
+  /* skils */
+  .skils {
+    width: 93%;
+  }
+  .skils h1{
+    font-size: 30px;
+  }
+
+   /* login & sign up*/
+
+   .form{
+    width: 90vw;
+  }
+}
